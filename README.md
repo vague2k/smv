@@ -47,7 +47,7 @@ You can find
 
 ## 📋 Contributing
 
-Issues and PR's are always welcome and highly encouraged! as this is my first plugin. I would love to learn more.
+Issues and PR's are always welcome and highly encouraged!
 
 ## License
 
