@@ -3,6 +3,8 @@
 A simple to use tool, that splits youtube videos based off silence using
 [khdai's youtube library](https://github.com/kkdai/youtube) and [ffmpeg](https://ffmpeg.org/).
 
+https://github.com/vague2k/smv/assets/121782036/798dc3fa-29d7-48f0-864c-c29b3a3a739b
+
 #### 🤔 Who is this for?
 
 If you like music discographies from youtube that aren't readily available on mainstream music streaming services
