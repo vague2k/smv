@@ -1,0 +1,31 @@
+project_name: smv
+
+env:
+  - CGO_ENABLED=0
+
+builds:
+  - main: ./main.go
+    binary: smv
+    goos:
+      - windows
+      - darwin
+      - linux
+    goarch:
+      - amd64
+      - arm
+      - arm64
+    flags:
+      - -trimpath
+
+brews:
+  - name: smv
+    homepage: "https://github.com/vague2k/smv"
+    license: MIT
+    dependencies:
+      - name: ffmpeg
+    repository:
+      owner: vague2k
+      name: homebrew-vague2k
+        
+checksum:
+  name_template: "smv_checksum.txt"
