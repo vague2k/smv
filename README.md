@@ -32,7 +32,7 @@ go get github.com/vague2k/smv
 ### Homebrew (macOS)
 
 ```
-brew install smv
+brew install vague2k/vague2k/smv
 ```
 
 ### From Source
