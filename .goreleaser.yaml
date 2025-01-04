@@ -1,3 +1,4 @@
+version: 2
 project_name: smv
 
 env:
@@ -16,16 +17,6 @@ builds:
       - arm64
     flags:
       - -trimpath
-
-brews:
-  - name: smv
-    homepage: "https://github.com/vague2k/smv"
-    license: MIT
-    dependencies:
-      - name: ffmpeg
-    repository:
-      owner: vague2k
-      name: homebrew-vague2k
         
 checksum:
   name_template: "smv_checksum.txt"
