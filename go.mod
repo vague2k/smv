@@ -1,6 +1,6 @@
 module github.com/vague2k/smv
 
-go 1.22.0
+go 1.23.4
 
 require (
 	github.com/kkdai/youtube/v2 v2.10.2
@@ -19,7 +19,6 @@ require (
 	github.com/charmbracelet/bubbles v0.20.0 // direct
 	github.com/charmbracelet/bubbletea v1.2.4 // direct
 	github.com/charmbracelet/lipgloss v1.0.0 // direct
-	github.com/containerd/console v1.0.4 // indirect
 	github.com/dlclark/regexp2 v1.11.4 // indirect
 	github.com/dop251/goja v0.0.0-20241024094426-79f3a7efcdbd // indirect
 	github.com/go-sourcemap/sourcemap v2.1.4+incompatible // indirect
@@ -31,12 +30,10 @@ require (
 	github.com/mattn/go-runewidth v0.0.16 // indirect
 	github.com/muesli/ansi v0.0.0-20230316100256-276c6243b2f6 // indirect
 	github.com/muesli/cancelreader v0.2.2 // indirect
-	github.com/muesli/reflow v0.3.0 // indirect
 	github.com/muesli/termenv v0.15.2 // indirect
 	github.com/rivo/uniseg v0.4.7 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
 	golang.org/x/sync v0.10.0 // indirect
-	golang.org/x/sys v0.28.0 // indirect
-	golang.org/x/term v0.27.0 // indirect
+	golang.org/x/sys v0.29.0 // indirect
 	golang.org/x/text v0.21.0 // indirect
 )
