@@ -1,5 +1,8 @@
 version: 2
-project_name: smv
+
+before:
+  hooks:
+    - go mod tidy
 
 env:
   - CGO_ENABLED=0
