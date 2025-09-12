@@ -1,6 +1,6 @@
 module github.com/vague2k/smv
 
-go 1.23.4
+go 1.24.0
 
 require (
 	github.com/kkdai/youtube/v2 v2.10.3
@@ -20,7 +20,7 @@ require (
 	github.com/aymanbagabas/go-osc52/v2 v2.0.1 // indirect
 	github.com/bitly/go-simplejson v0.5.1 // indirect
 	github.com/charmbracelet/bubbles v0.20.0 // direct
-	github.com/charmbracelet/bubbletea v1.3.7 // direct
+	github.com/charmbracelet/bubbletea v1.3.9 // direct
 	github.com/charmbracelet/lipgloss v1.1.0 // direct
 	github.com/dlclark/regexp2 v1.11.5 // indirect
 	github.com/dop251/goja v0.0.0-20250125213203-5ef83b82af17 // indirect
@@ -36,6 +36,6 @@ require (
 	github.com/muesli/termenv v0.16.0 // indirect
 	github.com/rivo/uniseg v0.4.7 // indirect
 	github.com/spf13/pflag v1.0.9 // indirect
-	golang.org/x/sys v0.34.0 // indirect
+	golang.org/x/sys v0.36.0 // indirect
 	golang.org/x/text v0.22.0 // indirect
 )
