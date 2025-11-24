@@ -3,7 +3,7 @@ module github.com/vague2k/smv
 go 1.23.4
 
 require (
-	github.com/kkdai/youtube/v2 v2.10.3
+	github.com/kkdai/youtube/v2 v2.10.5
 	github.com/spf13/cobra v1.10.1
 )
 
